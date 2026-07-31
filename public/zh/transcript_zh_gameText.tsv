@@ -2356,3 +2356,6 @@ Congratulations, you've completed a quest: Horror from the Deep	恭喜，你完�
 The grave says:	坟墓上写着：	gameText	missing-reflow	
 You take a garden cane from the pile.	你从堆里取了一根花园竹竿。	gameText	missing-reflow	
 Congratulations, you've completed a quest: Creature of Fenkenstrain	恭喜，你完成了一个任务：芬肯斯特恩的怪物	gameText	missing-reflow	
+Our new quarterly survey is now live! Click here to vote.|p	我们的新季度调查现已上线！点击此处投票。|p	gameText	missing-reflow	reflow-0730
+Wyrmscraig, the player-designed island, is OUT NOW! - click here for the newspost.|<Num0>	Wyrmscraig，玩家设计之岛，现已上线！- 点击此处查看新闻。|<Num0>	gameText	missing-reflow	reflow-0730
+You don't have permission to use that fairy ring.	你没有权限使用那个仙女环。	gameText	missing-reflow	reflow-0730
