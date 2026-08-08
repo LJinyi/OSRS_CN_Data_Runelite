@@ -2359,13 +2359,13 @@ Congratulations, you've completed a quest: Creature of Fenkenstrain	恭喜，你
 Our new quarterly survey is now live! Click here to vote.|p	我们的新季度调查现已上线！点击此处投票。|p	gameText	missing-reflow	reflow-0730
 Wyrmscraig, the player-designed island, is OUT NOW! - click here for the newspost.|<Num0>	Wyrmscraig，玩家设计之岛，现已上线！- 点击此处查看新闻。|<Num0>	gameText	missing-reflow	reflow-0730
 You don't have permission to use that fairy ring.	你没有权限使用那个仙女环。	gameText	missing-reflow	reflow-0730
-Only members of the clan may view the events list.	只有公会成员可以查看活动列表。	gameText	missing-reflow	
-Only members of the clan may view the members list.	只有公会成员可以查看成员列表。	gameText	missing-reflow	
-You are already in a clan.	你已经在公会中了。	gameText	missing-reflow	
-Only members of the clan may view these settings.	只有公会成员可以查看这些设置。	gameText	missing-reflow	
-Only members of the clan may view the permissions list.	只有公会成员可以查看权限列表。	gameText	missing-reflow	
+Only members of the clan may view the events list.	只有氏族成员可以查看活动列表。	gameText	missing-reflow	
+Only members of the clan may view the members list.	只有氏族成员可以查看成员列表。	gameText	missing-reflow	
+You are already in a clan.	你已经在氏族中了。	gameText	missing-reflow	
+Only members of the clan may view these settings.	只有氏族成员可以查看这些设置。	gameText	missing-reflow	
+Only members of the clan may view the permissions list.	只有氏族成员可以查看权限列表。	gameText	missing-reflow	
 Vote now on rewards for The Fractured Archive! Click here to vote.|p	立即投票决定破碎档案的奖励！点击此处投票。|p	gameText	missing-reflow	
-Initial updates to Wyrmscraig have arrived, alongside fishing while on your boat and Permanent Deadman changes. - click here for the newspost.|<Num0>	Wyrmscraig 的初步更新已上线，同时还有船上钓鱼和永久一条命模式改动。- 点击此处查看新闻帖。|<Num0>	gameText	missing-reflow	
+Initial updates to Wyrmscraig have arrived, alongside fishing while on your boat and Permanent Deadman changes. - click here for the newspost.|<Num0>	Wyrmscraig 的初步更新已上线，同时还有船上钓鱼和永久一条命模式改动。- 点击此处查看新闻。|<Num0>	gameText	missing-reflow	
 Vote now to have your say on a quick quality of life buff to the Jeweller's Chisel! Click here to vote.|p	立即投票，对珠宝匠凿子的快速生活质量提升发表意见！点击此处投票。|p	gameText	missing-reflow	
 You attempt to balance on the stepping stone.	你试图在踏脚石上保持平衡。	gameText	missing-reflow	
 You slip and fall...	你滑倒了...	gameText	missing-reflow	
@@ -2417,6 +2417,6 @@ You climb down through the pot hole.	你从洞口爬了下去。	gameText	missin
 You climb up the hanging rope and appear on the volcano rim.	你爬上悬挂的绳子，出现在火山口边缘。	gameText	missing-reflow	
 Wave: <Num0>	波次：<Num0>	gameText	missing-reflow	
 You skillfully swing across.	你熟练地荡了过去。	gameText	missing-reflow	
-You cannot do that from here.	你无法从这里做到。	gameText	missing-reflow	
+You cannot do that from here.	你不能在这里这么做。	gameText	missing-reflow	
 Well done! A Karamja task has been updated.	干得好！卡拉姆詹岛的一项任务已更新。	gameText	missing-reflow	
-You have completed all of the easy tasks in the Karamja area. Speak to Pirate Jackie the Fruit to claim your reward.	你已完成卡拉姆詹岛地区的所有简单任务。与海盗水果杰基交谈以领取你的奖励。	gameText	missing-reflow	
+You have completed all of the easy tasks in the Karamja area. Speak to Pirate Jackie the Fruit to claim your reward.	你已完成卡拉姆詹岛地区的所有简单任务。与水果海盗杰基交谈以领取你的奖励。	gameText	missing-reflow	

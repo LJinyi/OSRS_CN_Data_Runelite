@@ -31028,23 +31028,23 @@ Wings of Madness	疯狂之翼	interface	missing-reflow	reflow-0730
 Wyrmscraig, the player-designed island, is OUT NOW!	Wyrmscraig，玩家设计之岛，现已上线！	interface	missing-reflow	reflow-0730
 Tab <Num0>	标签<Num0>	interface	missing-reflow	
 Stepping stone to the private mining area in Wyrmscraig	通往 Wyrmscraig 私人矿区的踏脚石	interface	missing-reflow	
-Seeking clan...	寻找公会...	interface	missing-reflow	
+Seeking clan...	寻找氏族...	interface	missing-reflow	
 Members	成员	interface	missing-reflow	
 Permissions	权限	interface	missing-reflow	
 Titles	头衔	interface	missing-reflow	
 Bans	封禁	interface	missing-reflow	
-Leave Clan	离开公会	interface	missing-reflow	
-Owner:	会长：	interface	missing-reflow	
-None listed.	无列出。	interface	missing-reflow	
+Leave Clan	离开氏族	interface	missing-reflow	
+Owner:	所有者：	interface	missing-reflow	
+None listed.	暂无。	interface	missing-reflow	
 Permitted	已允许	interface	missing-reflow	
 View Guest Count	查看访客数量	interface	missing-reflow	
-View Clan Count	查看公会人数	interface	missing-reflow	
-Clan Info	公会信息	interface	missing-reflow	
+View Clan Count	查看氏族人数	interface	missing-reflow	
+Clan Info	氏族信息	interface	missing-reflow	
 Applicants	申请者	interface	missing-reflow	
-Edit rank	编辑等级	interface	missing-reflow	
-Clan hall settings	公会大厅设置	interface	missing-reflow	
+Edit rank	编辑职位	interface	missing-reflow	
+Clan hall settings	氏族大厅设置	interface	missing-reflow	
 The ban list is currently empty.	封禁列表目前为空。	interface	missing-reflow	
-Only clan members with a rank of Deputy Owner may unban players.	只有副会长及以上等级的公会成员可以解封玩家。	interface	missing-reflow	
+Only clan members with a rank of Deputy Owner may unban players.	只有职位为副所有者的氏族成员可以解封玩家。	interface	missing-reflow	
 This week we've got initial updates to Wyrmscraig, Sailing improvements such as the ability to fish while on your boat and various feedback changes to Permanent Deadman.	本周我们带来了 Wyrmscraig 的初步更新、航海改进（如可以在船上钓鱼）以及永久一条命模式的多项反馈调整。	interface	missing-reflow	
 Combat gear	战斗装备	interface	missing-reflow	
 Exploring	探索	interface	missing-reflow	
@@ -31052,10 +31052,10 @@ Free Rashiliyia	释放拉希利娅	interface	missing-reflow
 Recommended	推荐	interface	missing-reflow	
 The torch burns out.	火把烧尽了。	interface	missing-reflow	
 Some rope might help here.	这里或许需要绳子。	interface	missing-reflow	
-You carefully place Rashiliyia's remains on the dolmen.	你小心地将拉希利娅的遗骸放在巨石阵上。	interface	missing-reflow	
+You carefully place Rashiliyia's remains on the dolmen.	你小心地将拉希利娅的遗骸放在石桌上。	interface	missing-reflow	
 Access to Shilo Village	进入希洛村	interface	missing-reflow	
 Fish North of Banana Plantation	在香蕉种植园北边钓鱼	interface	missing-reflow	
-Mine gold	开采金矿	interface	missing-reflow	
+Mine gold	开采金矿石	interface	missing-reflow	
 Any pickaxe	任意镐子	interface	missing-reflow	
 You have been awarded <Num0> Agility experience!	你获得了<Num0>点敏捷经验！	interface	missing-reflow	
 This panel will show further information about an item when selected from the left-hand menu.	从左侧菜单中选择物品后，此面板将显示该物品的更多信息。	interface	missing-reflow	
