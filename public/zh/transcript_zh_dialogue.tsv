@@ -62659,3 +62659,8 @@ Yes, pay <Num0> coins.	是，支付<Num0>金币。	dialogue	missing-reflow	Playe
 Yes, pay <Num0> coins and don't ask again.	是，支付<Num0>金币，不再询问。	dialogue	missing-reflow	Player
 Climb up or down the ladder?	爬上或爬下梯子？	dialogue	missing-reflow	Player
 What job?	什么工作？	dialogue	missing-reflow	Player
+Climb all the way down.	一路爬下去。	dialogue	missing-reflow	Player
+Furnace coffer: <Num0> coins	熔炉保险箱：<Num0>金币	dialogue	missing-reflow	Player
+Really leave?	真的要离开吗？	dialogue	missing-reflow	Player
+Yes - really leave.	是的，真的要离开。	dialogue	missing-reflow	Player
+No, I'll stay.	不，我要留下。	dialogue	missing-reflow	Player
