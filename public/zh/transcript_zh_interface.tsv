@@ -20648,6 +20648,7 @@ Bought:	已购买：	interface	generalUI	skillGuide
 <colNum0><Num0> coins</col> = <Num1> each	<colNum0><Num0>金币</col><br>= 每个<Num1>	interface	generalUI	skillGuide
 Show <colNum0>craftable <colNum1>sets	显示<colNum0>可制作<colNum1>套装	interface	generalUI	skillGuide
 You have <Num0>K coins.	你有<Num0>K金币。	mainTabs	combatOptionsTab	
+You have <Num0>M coins.	你有<Num0>M金币。	interface	mainTabs	combatOptionsTab
 You need a hammer to work the metal with.	你需要一把锤子来加工金属。	interface	generalUI	skillGuide
 You're not sure how to make darts yet.	你还不确定如何制作飞镖。	interface	generalUI	skillGuide
 Before starting this quest, be aware that your combat level is lower than the recommended level of 15.	开始此任务前，请注意你的战斗等级低于推荐的15级。	interface	generalUI	skillGuide
