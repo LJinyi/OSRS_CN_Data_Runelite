@@ -62664,3 +62664,137 @@ Furnace coffer: <Num0> coins	熔炉保险箱：<Num0>金币	dialogue	missing-ref
 Really leave?	真的要离开吗？	dialogue	missing-reflow	Player
 Yes - really leave.	是的，真的要离开。	dialogue	missing-reflow	Player
 No, I'll stay.	不，我要留下。	dialogue	missing-reflow	Player
+Mute donation notifications?	静音捐赠通知？	dialogue	missing-reflow	Player
+Disable banking on logout?	禁用登出时存入银行？	dialogue	missing-reflow	Player
+No changes	无更改	dialogue	missing-reflow	Player
+It would be! I'm sure he'll be happy to share some information with you.	确实如此！我相信他会很乐意与你分享一些信息。	dialogue	missing-reflow	Gillie Groats
+Really remove it?	真的要移除它吗？	dialogue	missing-reflow	Player
+Fetch from bank: <Num0> x Mahogany plank	从银行取回：<Num0> x 红木木板	dialogue	missing-reflow	Player
+<colNum0>Master, I have returned with what thou asked me to<br><colNum1>retrieve. As I see thy inventory is full, I shall wait with<br><colNum2>these <Num0> items until thou art ready.	<colNum0>主人，我已取回您吩咐的物品。<br><colNum1>您的物品栏已经装满，所以我会替您保管<br><colNum2>这 <Num0> 件物品，直到您准备好。	dialogue	missing-reflow	Demon butler
+<colNum0>Master, I have returned with what thou asked me to<br><colNum1>retrieve. As I see thy inventory is full, I shall wait with<br><colNum2>the last item until thou art ready.	<colNum0>主人，我已取回您吩咐的物品。<br><colNum1>您的物品栏已经装满，所以我会替您保管<br><colNum2>最后一件物品，直到您准备好。	dialogue	missing-reflow	Demon butler
+Why don't you go and talk to him about it! He may appreciate knowing the Brutus was bad for business.	你何不去和他谈谈呢！也许他会乐意知道布鲁图斯妨碍了生意。	dialogue	missing-reflow	Gillie Groats
+Proceed regardless?	仍然继续？	dialogue	missing-reflow	Player
+Take them back to the bank please.	请把它们带回银行。	dialogue	missing-reflow	Player
+Would you like to disable these effects?	您想禁用这些效果吗？	dialogue	missing-reflow	Player
+No, and don't ask again.	不，并且不要再询问。	dialogue	missing-reflow	Player
+Your current preference is to not see colourful full screen effects.	您当前的偏好是不查看彩色全屏效果。	dialogue	missing-reflow	Player
+Enable them.	启用它们。	dialogue	missing-reflow	Player
+Disable them.	禁用它们。	dialogue	missing-reflow	Player
+Your current preference is to see colourful full screen effects.	您当前的偏好是查看彩色全屏效果。	dialogue	missing-reflow	Player
+Rotate anticlockwise	逆时针旋转	dialogue	missing-reflow	Player
+No, I want to stay here.	不，我想留在这里。	dialogue	missing-reflow	Player
+Please welcome our newest contestant:<br><colNum0>[player name]<colNum1>!<br>Four questions right, and then you win!<br>You know the rules, so let's begin!	欢迎我们的新参赛者：<br><colNum0>[player name]<colNum1>！<br>答对四个问题，然后你就赢了！<br>你知道规则，让我们开始吧！	dialogue	missing-reflow	Quiz Master
+<colNum0>CONGRATULATIONS<colNum1>!<br>You are a <colNum2>WINNER<colNum3>!<br>Please choose your <colNum4>PRIZE<colNum5>!	<colNum0>恭喜<colNum1>！<br>你是<colNum2>赢家<colNum3>！<br>请选择你的<colNum4>奖品<colNum5>！	dialogue	missing-reflow	Quiz Master
+Is this necessary? I've got a house of my own, in Hosidius, and I've been learning about Construction for a while.	有必要吗？我在霍西迪乌斯城有自己的房子，而且我已经学了一段时间的建筑。	dialogue	missing-reflow	Player
+Wait... Do not attack!	等等...不要攻击！	dialogue	missing-reflow	Hill Giant
+Do... do not... flig... fight.	不……不要……打……打架。	dialogue	missing-reflow	Hill Giant
+Want... no, need... your help.	想...不，需要...你的帮助。	dialogue	missing-reflow	Hill Giant
+Please... follow in.	请...跟进来。	dialogue	missing-reflow	Kovac
+No... follow.	不...跟着。	dialogue	missing-reflow	Kovac
+No... Kovac... accep... ancestor build.	不...科瓦克...接受...祖先建造。	dialogue	missing-reflow	Kovac
+Yes... long ago.	是的...很久以前。	dialogue	missing-reflow	Kovac
+Before... giants differing.	之前...巨人不同。	dialogue	missing-reflow	Kovac
+Now... not.	现在...不。	dialogue	missing-reflow	Kovac
+Make... wheelpo... weapons.	制……制造武器。	dialogue	missing-reflow	Kovac
+Make... giants... remember.	让……巨人……想起来。	dialogue	missing-reflow	Kovac
+Giants... not just... killers.	巨人...不只是...杀手。	dialogue	missing-reflow	Kovac
+Kovac want... help giants remember.	科瓦克想...帮助巨人记住。	dialogue	missing-reflow	Kovac
+This polishing wheel... make thing shiny.	这个抛光轮...让东西变亮。	dialogue	missing-reflow	Kovac
+Hmm... Kovac think it was for grinnin... grinding.	嗯...科瓦克觉得它是用来磨...研磨的。	dialogue	missing-reflow	Kovac
+Hmm... Kovac agree.	嗯...科瓦克同意。	dialogue	missing-reflow	Kovac
+Kovac did not know how... Kovac beggin... beginning to understand.	科瓦克不知道如何...科瓦克开始...开始明白了。	dialogue	missing-reflow	Kovac
+Grindstone important... We grind sword against stone... make sword sharp.	磨石很重要...我们磨剑对石...让剑锋利。	dialogue	missing-reflow	Kovac
+Hmm... big hammer.	嗯...大锤子。	dialogue	missing-reflow	Kovac
+Hmm... that look right.	嗯...看起来对了。	dialogue	missing-reflow	Kovac
+Trip hammer power by water... Water spin wheel and raise hammer.	冲锤由水驱动...水转动轮子并抬起锤子。	dialogue	missing-reflow	Kovac
+Yes... Kovac begin to understand more now.	是的...科瓦克现在开始更明白了。	dialogue	missing-reflow	Kovac
+Kovac know what say... but sometime hard say proppel... properly.	科瓦克知道说什么...但有时很难说清...正确地说。	dialogue	missing-reflow	Kovac
+Kovac get few things ready first... then we can start.	科瓦克先准备几样东西...然后我们就可以开始了。	dialogue	missing-reflow	Kovac
+Hmm... Kovac feel like things look correct... Kovac think you are right.	嗯...科瓦克觉得事情看起来正确...科瓦克认为你是对的。	dialogue	missing-reflow	Kovac
+First... you will need a coliti... commission.	首先...你需要一个委...委托。	dialogue	missing-reflow	Kovac
+Kovac will supply them... Kovac already gotten one from old friend.	科瓦克会提供它们...科瓦克已经从老朋友那里拿到一个了。	dialogue	missing-reflow	Kovac
+Kovac need a <colNum0>Flat Broad</col> sword.	科瓦克需要一把<colNum0>平宽</col>剑。	dialogue	missing-reflow	Kovac
+Kovac think we need to fill the... how's it called... the big stone bucket...	科瓦克觉得我们需要填满...它叫什么...那个大石桶...	dialogue	missing-reflow	Kovac
+Yes, thank you... Kovac think we need to fill the crucible with metal first.	是的，谢谢...科瓦克觉得我们需要先用金属填满坩埚。	dialogue	missing-reflow	Kovac
+Kovac has been connecti... collecting metals... They're in that box-crate by entry.	科瓦克一直在收集...收集金属...它们在入口附近的那个箱子-板条箱里。	dialogue	missing-reflow	Kovac
+Use bars and weapons... Crucible can take both.	使用锭和武器...坩埚两者都能接受。	dialogue	missing-reflow	Kovac
+While you do that... Kovac think about next thing we need to do.	你做那个的时候...科瓦克想想我们接下来需要做什么。	dialogue	missing-reflow	Kovac
+No, we need more... <Num0> metal bars worth. Weapon and armour can go into crucible too but some metal lost when melted down.	不，我们还需要更多…… <Num0> 个金属锭的量。武器和盔甲也可以放入坩埚，但熔化时会损失一些金属。	dialogue	missing-reflow	Kovac
+Kovac told me I should stick to bronze and iron for now.	科瓦克告诉我现在应该坚持用青铜和铁。	dialogue	missing-reflow	Player
+Maybe I should talk with Kovac first before messing around with anything.	也许我应该先和科瓦克谈谈，再乱动任何东西。	dialogue	missing-reflow	Player
+How many would you like to add?	你想添加多少个？	dialogue	missing-reflow	Player
+No, not yet... Kovac think we need to set up a mould.	不，还没好…… 科瓦克认为我们需要设置一个模具。	dialogue	missing-reflow	Kovac
+Hmm... Kovac think mould will determine the type of sword to be made.	嗯…… 科瓦克认为模具将决定要制作的剑的类型。	dialogue	missing-reflow	Kovac
+Remember, we need a <colNum0>Flat Broad</col> sword.	记住，我们需要一把 <colNum0>平宽</col> 剑。	dialogue	missing-reflow	Kovac
+Kovac remember being told a sword is made from three parts... a forte, a blade and a tip.	科瓦克记得有人说过一把剑由三部分组成…… 剑身、刀片和剑尖。	dialogue	missing-reflow	Kovac
+Use mould jig behind you... You can select part for each selecti... section.	使用你身后的模具夹具…… 你可以为每个部…… 部分选择部件。	dialogue	missing-reflow	Kovac
+Each mould part is differing... They will suit different commissions better... Look for parts that match commission.	每个模具部件都不同…… 它们会更适合不同的委托…… 寻找与委托匹配的部件。	dialogue	missing-reflow	Kovac
+Look at mould jig... If you are still confused... come back to me.	看看模具夹具…… 如果你仍然困惑…… 回来找我。	dialogue	missing-reflow	Kovac
+Hmm... let me look.	嗯…… 让我看看。	dialogue	missing-reflow	Kovac
+Yes, all things look correct... Well done little one. We are ready.	是的，一切看起来都正确…… 干得好，小家伙。我们准备好了。	dialogue	missing-reflow	Kovac
+Pour the metal from the crucible into the mould... then take out the preform.	将坩埚中的金属倒入模具…… 然后取出未完成的部件。	dialogue	missing-reflow	Kovac
+Once you have done that... Kovac will tell how to work the preform.	一旦你完成了…… 科瓦克会告诉你如何加工未完成的部件。	dialogue	missing-reflow	Kovac
+Hmm... let Kovac look.	嗯…… 让科瓦克看看。	dialogue	missing-reflow	Kovac
+Hmm... Yes... Hmm...	嗯…… 是的…… 嗯……	dialogue	missing-reflow	Kovac
+This is defeanin... definitely a sword... Well done little one.	这绝对是…… 绝对是一把剑…… 干得好，小家伙。	dialogue	missing-reflow	Kovac
+Sorry it's not very good. I'm still getting use to everything.	抱歉，它不太好。我还在适应一切。	dialogue	missing-reflow	Player
+That is okay. You do better than Kovac could... We still leanin... learning.	没关系。你做得比科瓦克能做的要好…… 我们还在学…… 学习。	dialogue	missing-reflow	Kovac
+Kovac friend... Obor.	科瓦克的朋友…… 奥博尔。	dialogue	missing-reflow	Kovac
+Obor good friend. Kovac know he only attack if you trespass his cave... Maybe you should have some manners and knock first.	奥博尔是好朋友。科瓦克知道他只会在你闯入他的洞穴时攻击…… 也许你应该有礼貌，先敲门。	dialogue	missing-reflow	Kovac
+Ah, I see. So you're going to play dumb are you? Well, I won't fall for your lies!	啊，我明白了。所以你要装傻是吗？好吧，我不会上你的当！	dialogue	missing-reflow	Marcellus
+You want to go near them? Well, then you're a fool! I will watch from a safe distance as they dine on your corpse!	你想靠近它们？好吧，那你就是个傻瓜！我会在安全距离外看着它们享用你的尸体！	dialogue	missing-reflow	Marcellus
+Okay then... Well, provided that doesn't happen, I'll be back shortly to let you know what I've found.	好吧…… 只要那不会发生，我很快就会回来告诉你我发现了什么。	dialogue	missing-reflow	Player
+Well, of course we can talk, silly. Why wouldn't we be able to?	嗯，我们当然可以交谈，傻瓜。为什么我们不能呢？	dialogue	missing-reflow	Frog
+Well, I guess I'd just never considered it before...	嗯，我想我以前从未考虑过……	dialogue	missing-reflow	Player
+Well, when you put it like that...	嗯，你这么说的话……	dialogue	missing-reflow	Player
+Cuthbert.	卡斯伯特。	dialogue	missing-reflow	Frog
+Well, there's a guy over there that thinks you're all evil.	嗯，那边有个人认为你们都是邪恶的。	dialogue	missing-reflow	Player
+Oh... Well, I can't really remember. It's been so long that I've gone and totally forgotten. Hey, Gary, why are we on strike?	哦…… 嗯，我真的记不清了。时间太久了，我完全忘了。嘿，加里，我们为什么罢工？	dialogue	missing-reflow	Sue
+Well, he's one of them capitalists, isn't he. They see a worker demanding fair rights and they go loopy. Can't have anything getting in the way of their profit margins!	嗯，他是那种资本家，不是吗。他们看到工人要求公平权利就会发疯。不能有任何东西妨碍他们的利润！	dialogue	missing-reflow	Gary
+He wants to kill us?! Well, now I think we should overthrow humanity!	他想杀了我们？！好吧，现在我认为我们应该推翻人类！	dialogue	missing-reflow	Gary
+Right... Well, how about I go and ask him what conditions he'd be willing to accept.	好吧…… 那我去问问他愿意接受什么条件。	dialogue	missing-reflow	Player
+Well, that just sounds swell!	嗯，那听起来太好了！	dialogue	missing-reflow	Sue
+Well, I had a chat with them, and they're open to engaging in some peace talks.	嗯，我和他们聊了聊，他们愿意进行和平谈判。	dialogue	missing-reflow	Player
+Well, do they have a leader?	嗯，他们有领袖吗？	dialogue	missing-reflow	Marcellus
+Well, you go tell them that I'll only negotiate with their leader.	好吧，你去告诉他们，我只和他们的领袖谈判。	dialogue	missing-reflow	Marcellus
+Oh, well, not really.	哦，嗯，其实没有。	dialogue	missing-reflow	Sue
+Well, would you be interested in having a leader?	嗯，你有兴趣有个领袖吗？	dialogue	missing-reflow	Player
+Well, I really could do with a bit of a rest, not to mention the fact that I'm starving. Still, the lily pads are our duty. It would be wrong of us to let someone else touch them.	嗯，我真的需要休息一下，更不用说我还饿着。不过，睡莲叶是我们的职责。让别人碰它们是不对的。	dialogue	missing-reflow	Dave
+Well, now that's all sorted, we can get these peace talks underway!	嗯，现在一切都解决了，我们可以开始和平谈判了！	dialogue	missing-reflow	Sue
+Well, is there anything else you can offer him?	嗯，你还有什么可以给他的吗？	dialogue	missing-reflow	Player
+Well, maybe we can still work with that. I'm sure our friend doesn't like flies. Maybe you could deal with the flies around here for him?	嗯，也许我们还能利用这个。我相信我们的朋友不喜欢苍蝇。也许你可以帮他处理这里的苍蝇？	dialogue	missing-reflow	Player
+Well, normally I'd say in flies, but it seems we've got that covered.	嗯，平时我会说用苍蝇付，不过看来这方面已经解决了。	dialogue	missing-reflow	Sue
+Well, what are they?	嗯，它们是什么？	dialogue	missing-reflow	Marcellus
+Well, don't they spread disease and eat your food?	嗯，它们不是传播疾病和吃你的食物吗？	dialogue	missing-reflow	Player
+Well, it could be worse. It could be murder!	嗯，情况可能更糟。可能是谋杀！	dialogue	missing-reflow	Gary
+I see my worst fears have come to pass. This is a dark day not just for me, but for all of humanity.	我看到我最担心的事情发生了。这不仅对我，而且对全人类都是黑暗的一天。	dialogue	missing-reflow	Marcellus
+Arrr, you poor scallywag.	啊，你这可怜的小无赖。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Yarr! You've got it!	呀！你成功了！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Jolly Roger!	海盗旗！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Jim's cargo is still in the cargo hold.	吉姆的货物还在货舱里。	dialogue	missing-reflow	Player
+Cancel port task: Pandemonium steel delivery?	取消港口任务：潘德莫尼姆岛钢锭运送？	dialogue	missing-reflow	Player
+Take them back to the bank	把它们带回银行	dialogue	missing-reflow	Player
+Uh, it sounds nasty, just the kind of thing I want to avoid.	呃，听起来很恶心，正是我想避免的那种事。	dialogue	missing-reflow	Player
+Oh come on, you must know something.	哦，拜托，你一定知道些什么。	dialogue	missing-reflow	Player
+Yo ho ho and a Jolly Roger to you, me hearty! I can see from the fact that you're totally drenched from head to toe that you are a fellow scallywag sailor! The name's Steve Beanie! Pleased to meet you.	哟嗬嗬，也向你致上海盗旗的问候，我的好兄弟！瞧你从头到脚湿得透透的，我一眼就看出你也是个小海贼水手！我叫史蒂夫·比尼！很高兴认识你。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Ha! Far from it, matey! Though the fever dream I can't comment on. They're rather common around here... but I assure you that it's well-nigh certainly like enough most likely not the rum doing it!	哈！远非如此，伙计！不过发烧的梦我无法评论。在这里很常见……但我向你保证，几乎可以肯定，很可能不是朗姆酒造成的！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Ah, me wee hearty! You seem to be having quite the crisis! Thankfully, you've rigged the starboard and docked yourself at the right port! Welcome to the Pandemonium!	啊，我的小好汉！你似乎正经历一场危机！幸运的是，你已调整好右舷，停靠在了正确的港口！欢迎来到潘德莫尼姆岛！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Aye! To be sure! This here is the finest establishment in all the seas. Sit back! Have a drink! Let the good times, and the rum, flow!	是的！当然！这里是所有海域中最好的场所。坐下来！喝一杯！让美好时光和朗姆酒流淌吧！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Avast ye! You name a pair of pinching looting plundering seadogs!	站住！你说的是那对偷窃掠夺的海盗狗！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Purchased?! Purchased?! You're pulling my leg, you scallywag! Those scurvy dogs came here and broke the one rule of the Pandemonium! That map was pilfered! Stolen!	买来的？！买来的？！你在开玩笑吧，你这个无赖！那些卑鄙的家伙来到这里，违反了潘德莫尼姆岛的唯一规则！那张地图是被偷走的！被偷的！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Not a lot, I'm afraid. You should hoist your sails and go speak to Ribs instead. It was his map they looted. He's the old dog over in the corner. Avast!	恐怕知道得不多。你该扬帆去找肋骨谈谈。他们掠走的是他的地图。他就是角落里那条老海狗。停！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Yarr! What will it be?	呀！要点什么？	dialogue	missing-reflow	'Squawking' Steve Beanie
+Those plundering seadogs! Did you speak to Ribs about them?	那些掠夺的海盗狗！你和肋骨谈过他们了吗？	dialogue	missing-reflow	'Squawking' Steve Beanie
+Ah, the curse of Barnacle Barnaby! It's one of Ribs' favourite tales. Just a myth of course, but the old dog does love his stories.	啊，藤壶巴纳比的诅咒！这是肋骨最喜欢的故事之一。当然只是个神话，但那个老家伙就是喜欢他的故事。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Yo ho ho! A mighty good decision! It's a generous bounty indeed. You don't go breaking the one rule of the Pandemonium and expect to get away with it!	哟嚯嚯！一个非常明智的决定！这确实是一笔丰厚的赏金。你不能违反潘德莫尼姆岛的唯一规则还指望逃脱！	dialogue	missing-reflow	'Squawking' Steve Beanie
+Avast! The mainland kingdoms have no authority here. Their laws do not apply. Instead, we just have our one rule that keeps the Pandemonium afloat: Never disrespect your fellow patron.	停！大陆王国在这里没有管辖权，他们的法律并不适用。我们只有一条让潘德莫尼姆岛继续漂浮的规矩：绝不冒犯其他顾客。	dialogue	missing-reflow	'Squawking' Steve Beanie
+We don't care who you are. Indeed, pirates and customs officers can enjoy a drink here, side by side. Savvy?	我们不在乎你是谁。确实，海盗和海关官员可以在这里并肩喝酒。明白吗？	dialogue	missing-reflow	'Squawking' Steve Beanie
+Shiver me timbers! I'm afraid not. Old Grog said he might try and track them down. Perhaps he has an idea of where to find them.	天哪！恐怕不行。老格罗格说他会试着追踪他们。也许他知道在哪里能找到他们。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Ah, the old scallywag left not that long ago, but he'll be back here before long. He enjoys a drink far too much! In the meantime, you should hoist the sails and ready your vessel!	啊，那个老无赖刚离开不久，但他很快就会回来。他太喜欢喝酒了！与此同时，你应该扬帆起航，准备好你的船！	dialogue	missing-reflow	'Squawking' Steve Beanie
+What? But then how did you get here?	什么？那你是怎么到这里的？	dialogue	missing-reflow	'Squawking' Steve Beanie
+Blistering barnacles! Well, you won't be getting far without a boat of your own. You should head to the docks and speak with Junior Jim, our local shipwright. He'll get you sorted out.	可恶的藤壶！好吧，没有自己的船你走不远。你应该去码头和我们的当地造船师小吉姆谈谈。他会帮你搞定的。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Aye! This Jolly Roger here is pretty keen to see some justice dealt! Old Grog, meet... er...	没错！这位海盗朋友可急着看到正义得到伸张！老格罗格，来认识一下……呃……	dialogue	missing-reflow	'Squawking' Steve Beanie
+[player name]! And [player name], meet Old Grog.	[player name]！还有[player name]，见见老格罗格。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Yo ho ho, [player name]! Best you not waste time! Belay your helm and abaft your rigging! Get out there and make sure you're ready for Old Grog!	哟嗬嗬，[player name]！你最好别浪费时间！停住船舵，退到帆索后方！快去做好准备，等候老格罗格！	dialogue	missing-reflow	'Squawking' Steve Beanie
+To help you on your way, I've got some pirate looty here for you! Sawmill coupons! Useful if you want a top vessel like mine.	为了帮助你上路，我这里有一些海盗战利品给你！锯木厂优惠券！如果你想拥有一艘像我这样的顶级船只，这些很有用。	dialogue	missing-reflow	'Squawking' Steve Beanie
+Oh, and don't forget to pop back for a drink from time to time. My rum is to die for! Now, avast!	哦，别忘了时不时回来喝一杯。我的朗姆酒好喝得要命！现在，站住！	dialogue	missing-reflow	'Squawking' Steve Beanie

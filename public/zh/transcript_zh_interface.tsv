@@ -31065,3 +31065,500 @@ You may also use the options menu to purchase multiples of an item.	你也可以
 Unlimited stock	无限库存	interface	missing-reflow	
 <Num0> Brimhaven Vouchers	<Num0>张布尔哈文镇代金券	interface	missing-reflow	
 <Num0> Agility Arena Ticket	<Num0>张敏捷竞技场票	interface	missing-reflow	
+Combat Profile - [player name]	战斗档案 - [player name]	interface	missing-reflow	
+Kree'arra (<Num0>)	克里阿拉 (<Num0>)	interface	missing-reflow	
+Bank PIN Settings	银行PIN码设置	interface	missing-reflow	
+You have a PIN	您已设置PIN码	interface	missing-reflow	
+Always lock	始终锁定	interface	missing-reflow	
+Customers are reminded that they should NEVER tell anyone their Bank PINs or passwords, nor should they ever enter their PINs on any website form.	提醒顾客，切勿向任何人透露银行PIN码或密码，也不应在任何网站表单中输入PIN码。	interface	missing-reflow	
+Do you really wish to change your Bank PIN?	您确定要更改银行PIN码吗？	interface	missing-reflow	
+Yes, I am ready for a new one.	是的，我准备好设置新PIN码。	interface	missing-reflow	
+No thanks, I'll stick with my present one.	不了，谢谢，我保留现有PIN码。	interface	missing-reflow	
+Choose new PIN	选择新PIN码	interface	missing-reflow	
+Please choose a new FOUR DIGIT PIN using the buttons below.	请使用下方按钮选择一个新的四位PIN码。	interface	missing-reflow	
+Confirm new PIN	确认新PIN码	interface	missing-reflow	
+Now please enter that number again.	请再次输入该数字。	interface	missing-reflow	
+Your PIN has been changed to the number you entered.	您的PIN码已更改为您输入的数字。	interface	missing-reflow	
+This takes effect immediately.	此更改立即生效。	interface	missing-reflow	
+If you cannot remember your new PIN, you should delete it now.	如果您无法记住新PIN码，应立即删除它。	interface	missing-reflow	
+<Num0> slots (<Num1> coins)	<Num0> 个槽位 (<Num1> 金币)	interface	missing-reflow	
+Regular Maintenance Survey	定期维护调查	interface	missing-reflow	
+<Num0>th January - <Num1>th January <Num2>	一月<Num0>日至一月<Num1>日（<Num2>年）	interface	missing-reflow	
+Getting Around Poll	出行方式投票	interface	missing-reflow	
+Winter Summit Opinion poll	冬季峰会意见投票	interface	missing-reflow	
+<Num0>th January - <Num1>nd February <Num2>	一月<Num0>日至二月<Num1>日（<Num2>年）	interface	missing-reflow	
+The Winter Summit Poll	冬季峰会投票	interface	missing-reflow	
+Sailing Cannonball Facility Poll	航海炮弹设施投票	interface	missing-reflow	
+<Num0>nd February - <Num1>th February <Num2>	二月<Num0>日至二月<Num1>日（<Num2>年）	interface	missing-reflow	
+Game Jam VII Opinion Poll	Game Jam VII 意见投票	interface	missing-reflow	
+<Num0>th February - <Num1>th February <Num2>	二月<Num0>日至二月<Num1>日（<Num2>年）	interface	missing-reflow	
+Blood Moon Rises Rewards Poll	血月升起奖励投票	interface	missing-reflow	
+<Num0>rd March - <Num1>th March <Num2>	三月<Num0>日至三月<Num1>日（<Num2>年）	interface	missing-reflow	
+Leechfin & Preparation Station Opinion Poll	水蛭鳍与准备站意见投票	interface	missing-reflow	
+<Num0>th March - <Num1>th March <Num2>	三月<Num0>日至三月<Num1>日（<Num2>年）	interface	missing-reflow	
+Gathering Efficiencies & More Lock-in Poll	采集效率及更多锁定投票	interface	missing-reflow	
+<Num0>th April - <Num1>th April <Num2>	四月<Num0>日至四月<Num1>日（<Num2>年）	interface	missing-reflow	
+Leechfin Fishing Lock-in Poll	水蛭鳍钓鱼锁定投票	interface	missing-reflow	
+<Num0>th April - <Num1>th May <Num2>	四月<Num0>日至五月<Num1>日（<Num2>年）	interface	missing-reflow	
+Sailing Buffs, Changes & More	航海增强、变更及更多	interface	missing-reflow	
+<Num0>th May - <Num1>th May <Num2>	五月<Num0>日至五月<Num1>日（<Num2>年）	interface	missing-reflow	
+The Campfire Opinion Poll	营火意见投票	interface	missing-reflow	
+<Num0>th May - <Num1>th June <Num2>	五月<Num0>日至六月<Num1>日（<Num2>年）	interface	missing-reflow	
+The Campfire Lock-in Poll	营火锁定投票	interface	missing-reflow	
+<Num0>th July - <Num1>th July <Num2>	七月<Num0>日至七月<Num1>日（<Num2>年）	interface	missing-reflow	
+OSRS Quarterly Survey	OSRS季度调查	interface	missing-reflow	
+<Num0>th July - <Num1>nd August <Num2>	七月<Num0>日至八月<Num1>日（<Num2>年）	interface	missing-reflow	
+The Fractured Archive - Rewards Lock-in Poll	破碎档案 - 奖励锁定投票	interface	missing-reflow	
+August <Num0>rd - August <Num1>th <Num2>	八月<Num0>日至八月<Num1>日（<Num2>年）	interface	missing-reflow	
+Wyrmscraig - Jeweller's Chisel	龙鳞崖 - 珠宝匠的凿子	interface	missing-reflow	
+August <Num0>th - August <Num1>th <Num2>	八月<Num0>日至八月<Num1>日（<Num2>年）	interface	missing-reflow	
+A Ruff Situation, Crab Quest & Bronzeman Mode	汪汪困境、螃蟹任务与青铜人模式	interface	missing-reflow	
+August <Num0>th - August <Num1>st <Num2>	八月<Num0>日至八月<Num1>日（<Num2>年）	interface	missing-reflow	
+Name: [player name]	名称：[player name]	interface	missing-reflow	
+Explore a world many times larger!	探索一个数倍大的世界！	interface	missing-reflow	
+Master nine extra skills!	掌握九项额外技能！	interface	missing-reflow	
+Take on over a hundred more quests!	完成一百多个额外任务！	interface	missing-reflow	
+Defeat over twenty additional bosses!	击败二十多个额外Boss！	interface	missing-reflow	
+Actively traded price: <Num0>	活跃交易价格：<Num0>	interface	missing-reflow	
+The Bank of Gielinor (GE: <Num0>) (HA: <Num1>)	基利诺尔银行（GE：<Num0>）（HA：<Num1>）	interface	missing-reflow	
+Bank settings menu	银行设置菜单	interface	missing-reflow	
+'Bank tutorial' button	'银行教程'按钮	interface	missing-reflow	
+Inventory item options	物品栏物品选项	interface	missing-reflow	
+Bank item options	银行物品选项	interface	missing-reflow	
+'Deposit inventory' button	“存入物品栏”按钮	interface	missing-reflow	
+'Empty containers' button	'清空容器'按钮	interface	missing-reflow	
+Forget storage tab status on bank open	打开银行时忘记存储标签页状态	interface	missing-reflow	
+Always deposit to potion storage	始终存入药水储存器	interface	missing-reflow	
+Chugging Barrel only fills from currently opened storage	畅饮桶仅从当前打开的储存器中填充	interface	missing-reflow	
+Release all placeholders (<Num0>)	释放所有占位符 (<Num0>)	interface	missing-reflow	
+Bank Fillers	银行填充物	interface	missing-reflow	
+Hide menu	隐藏菜单	interface	missing-reflow	
+Enable inventory locks	启用物品栏锁定	interface	missing-reflow	
+Show right-click options	显示右键选项	interface	missing-reflow	
+Lock Inventory Slots	锁定物品栏槽位	interface	missing-reflow	
+If you lock inventory slots, the bank's standard Deposit options will avoid depositing items from the locked slots.	如果你锁定物品栏槽位，银行的标准“存入”选项将不会存入锁定槽位中的物品。	interface	missing-reflow	
+Select slots in the grid to lock them.	在网格中选择槽位以锁定它们。	interface	missing-reflow	
+You may also enable extra right-click options within the bank's inventory display, for locking & unlocking slots more conveniently.	你也可以在银行的物品栏显示区启用额外的右键选项，以便更方便地锁定和解锁槽位。	interface	missing-reflow	
+Tab I (GE: <Num0>) (HA: <Num1>)	标签页I (GE: <Num0>) (HA: <Num1>)	interface	missing-reflow	
+Tab II (GE: <Num0>) (HA: <Num1>)	标签页II (GE: <Num0>) (HA: <Num1>)	interface	missing-reflow	
+Tab <Num0> (GE: <Num0>) (HA: <Num1>)	标签页<Num0> (GE: <Num0>) (HA: <Num1>)	interface	missing-reflow	
+Release all placeholders?	释放所有占位符？	interface	missing-reflow	
+Release them all	全部释放	interface	missing-reflow	
+This option will release all the placeholders throughout your whole bank.	此选项将释放整个银行中的所有占位符。	interface	missing-reflow	
+= <Num0> each	= 每个 <Num0>	interface	missing-reflow	
+Right click	右键点击	interface	missing-reflow	
+Less info	简略信息	interface	missing-reflow	
+Auto-equip & sort items from gravestone	从墓碑自动装备并整理物品	interface	missing-reflow	
+When enabled, when you retrieve an item from your gravestone, you will auto-equip any items that were equipped when you died, and the rest will be sorted to their original positions.	启用后，当您从墓碑取回物品时，将自动装备您死亡时装备的物品，其余物品将整理到其原始位置。	interface	missing-reflow	
+Donation notifications: Active	捐赠通知：已激活	interface	missing-reflow	
+Attempt to bank on logout: Enabled	登出时尝试存入银行：已启用	interface	missing-reflow	
+Have a triangle sandwich for free!	免费领取一个三角形三明治！	interface	missing-reflow	
+The bull fight	斗牛	interface	missing-reflow	
+Principle One.	原则一。	interface	missing-reflow	
+Principle Two.	原则二。	interface	missing-reflow	
+Principle Three.	原则三。	interface	missing-reflow	
+Plank: <Num0>	木板：<Num0>	interface	missing-reflow	
+Nails: <Num0>	钉子：<Num0>	interface	missing-reflow	
+Oak plank: <Num0>	橡木木板：<Num0>	interface	missing-reflow	
+Teak plank: <Num0>	柚木木板：<Num0>	interface	missing-reflow	
+Bolt of cloth: <Num0>	布卷：<Num0>	interface	missing-reflow	
+Mahogany plank: <Num0>	红木木板：<Num0>	interface	missing-reflow	
+Gold leaf: <Num0>	金箔：<Num0>	interface	missing-reflow	
+Marble block: <Num0>	大理石块：<Num0>	interface	missing-reflow	
+Construction - Level-up Unlocks (Members Only)	建筑 - 升级解锁（仅限会员）	interface	missing-reflow	
+Magic stone: <Num0>	魔法石：<Num0>	interface	missing-reflow	
+Stack count: <Num0>	堆叠数量：<Num0>	interface	missing-reflow	
+Guide value: <Num0> (approximately)	指导价：<Num0>（约）	interface	missing-reflow	
+Fee to unlock: <Num0> x Coins	解锁费用：<Num0> x 金币	interface	missing-reflow	
+I have spoken to the Duke of Lumbridge, and he can't grant us our business permit without us first speaking to Gillie Groats.	我已与仑桥镇公爵谈过，如果我们不先与吉利.格罗茨交谈，他无法授予我们营业执照。	journal	missing-reflow	
+Quest List*	任务列表*	interface	missing-reflow	
+Access to Brutus' Field	进入布鲁图斯的田地	interface	missing-reflow	
+Gillie's Cowbell Supply	吉利的牛铃供应	interface	missing-reflow	
+I must speak to Commander Veldaban of the Black Guard, in connection with the statue that was knocked over.	我必须与黑卫队的维尔达班指挥官谈谈，关于被撞倒的雕像。	journal	missing-reflow	
+Membership Left: REDACTED	剩余会员天数：REDACTED	interface	missing-reflow	
+Bronzeman Opinion Survey	青铜人意见调查	interface	missing-reflow	
+The OSRS team values your input!	OSRS 团队重视你的意见！	interface	missing-reflow	
+This opinion survey follows the recent Bronzeman, A Ruff Situation, and Crab quest poll. We'd like to use this opportunity to understand the reasons behind your votes, which will help inform any next steps we might want to take and provide vital information to help shape the future of polls.	本次意见调查承接近期关于青铜人、汪汪困境和螃蟹任务的投票。我们希望借此机会了解你作出选择的原因，这将为我们可能采取的后续行动提供参考，并为今后的投票设计提供重要信息。	interface	missing-reflow	
+For more information, check out this blog.	欲了解更多信息，请查看这篇博客。	interface	missing-reflow	
+How did you vote on the recent Bronzeman poll question?	你在最近的青铜人投票问题中是如何投票的？	interface	missing-reflow	
+I voted Yes	我投了赞成票	interface	missing-reflow	
+I didn't vote, but I would have voted Yes	我没有投票，但我会投赞成票	interface	missing-reflow	
+I voted No	我投了反对票	interface	missing-reflow	
+I didn't vote, but I would have voted No	我没有投票，但我会投反对票	interface	missing-reflow	
+I voted Skip	我投了跳过票	interface	missing-reflow	
+I didn't vote, and I'm not sure how I would have voted	我没有投票，也不确定我会怎么投	interface	missing-reflow	
+Which of these did you believe about the Unbound version of Bronzeman?	对于无限制版青铜人，以下哪项是你当时的看法？	interface	missing-reflow	
+It was part of the Bronzeman poll	它是青铜人投票的一部分	interface	missing-reflow	
+It was not part of the poll	它不是投票的一部分	interface	missing-reflow	
+I wasn't sure	我不确定	interface	missing-reflow	
+In our most recent blog post, we stated that Unbound was no longer part of the poll. If this was made clearer to you at the time, how would you have voted differently?	我们在最近的博客文章中说明，无限制版已不再属于此次投票。如果当时更清楚地向你说明这一点，你会如何改变自己的投票？	interface	missing-reflow	
+It would not have changed my voted	它不会改变我的投票	interface	missing-reflow	
+I am not sure if it would have changed my vote	我不确定它是否会改变我的投票	interface	missing-reflow	
+What were the main reasons for your Yes vote? (Select up to two)	你投赞成票的主要原因是什么？（最多选择两项）	interface	missing-reflow	
+I want more flexibility than Ironman offers, without going as far as a Main	我想要比铁人模式更灵活，但又不想像普通号那样自由	interface	missing-reflow	
+I like that effort is still required to unlock items, even with GE access afterwards	我喜欢即使之后可以使用大交易所，仍需努力解锁物品	interface	missing-reflow	
+I want a new challenge or goal to work toward	我想要一个新的挑战或目标去努力	interface	missing-reflow	
+It's a fun way to start a fresh account or alt	这是开始新账号或小号的有趣方式	interface	missing-reflow	
+I wanted the option to downgrade my Ironman to a Bronzeman	我想要将我的铁人模式降级为青铜人的选项	interface	missing-reflow	
+An official mode would be better than the existing plugin	官方模式会比现有的插件更好	interface	missing-reflow	
+It doesn't affect me, but I don't see the harm in others having it	它不影响我，但我不介意别人拥有它	interface	missing-reflow	
+I trust the team to iterate on the design responsibly	我相信团队会负责任地迭代设计	interface	missing-reflow	
+It would encourage my friends to play	它会鼓励我的朋友来玩	interface	missing-reflow	
+I thought a Yes vote would encourage a PvP version of Bronzeman to be released in the future	我以为投赞成票会鼓励未来发布 PvP 版本的青铜人	interface	missing-reflow	
+How much did each of the following contribute to your No vote? (<Num0> = Didn't contribute at all, <Num1> = A major reason)	以下各项对你投反对票的影响程度如何？（<Num0> = 完全没有影响，<Num1> = 主要原因）	interface	missing-reflow	
+Didn't contribute at all	完全没有影响	interface	missing-reflow	
+A major reason	主要原因	interface	missing-reflow	
+OSRS doesn't need any new additional game modes	OSRS 不需要任何新的额外游戏模式	interface	missing-reflow	
+The plugin already exists so there doesn't need to be an official mode	插件已经存在，所以不需要官方模式	interface	missing-reflow	
+It devalues the achievement of existing Ironman modes	它贬低了现有铁人模式成就的价值	interface	missing-reflow	
+Concerns about its impact on the Grand Exchange / economy	担心其对大交易所/经济的影响	interface	missing-reflow	
+Key design points weren't clear enough before the poll	投票前关键设计点不够清晰	interface	missing-reflow	
+The poll came too soon after the design was announced	投票在设计公布后太快进行	interface	missing-reflow	
+I'd rather development time went to other content	我宁愿开发时间花在其他内容上	interface	missing-reflow	
+I wanted a different game mode instead	我宁愿要一个不同的游戏模式	interface	missing-reflow	
+The design needed significant changes	设计需要重大修改	interface	missing-reflow	
+It doesn't affect me, so I saw no reason to support it	它不影响我，所以我没有理由支持它	interface	missing-reflow	
+Membership costs for new characters are prohibitive	新角色的会员费用过高	interface	missing-reflow	
+I voted no because Unbound was removed from the poll	我投反对票是因为无限制版已从投票中移除	interface	missing-reflow	
+I voted no because I thought Unbound was part of the poll	我投反对票是因为我以为无限制版属于投票内容	interface	missing-reflow	
+What were the main reasons for your No vote? (Select up to two)	你投反对票的主要原因是什么？（最多选择两项）	interface	missing-reflow	
+Which parts of the Bronzeman proposal do you think needed more clarification before the poll?	你认为青铜人提案的哪些部分在投票前需要更多澄清？	interface	missing-reflow	
+How item unlocks work	物品解锁机制如何运作	interface	missing-reflow	
+How multi-part items are unlocked	多部件物品如何解锁	interface	missing-reflow	
+How the Grand Exchange works	大交易所如何运作	interface	missing-reflow	
+How player-to-player trading works	玩家间交易如何运作	interface	missing-reflow	
+How PvP progression works	PvP 进度如何运作	interface	missing-reflow	
+How raid splits work	团队副本分赃如何运作	interface	missing-reflow	
+How Bonds work	OS债券的运作方式	interface	missing-reflow	
+If you selected 'Something else' for the previous question, let us know which parts you felt needed more clarification.	如果您在上一题选择了“其他”，请告知我们您认为哪些部分需要进一步说明。	interface	missing-reflow	
+Which of the following game modes would you have preferred?	您更倾向于以下哪种游戏模式？	interface	missing-reflow	
+Hardcore Mains on fresh worlds (Main Accounts with one life on separate game worlds)	新世界中的硬核主号（在独立游戏世界中拥有一次生命的普通账号）	interface	missing-reflow	
+Hardcore Mains on default worlds (Main Accounts with one life on regular game worlds, with split economy from other players)	默认世界中的硬核主号（在常规游戏世界中拥有一次生命的普通账号，与其他玩家经济分离）	interface	missing-reflow	
+Nightmare (You have one life and any damage you take will kill you)	梦魇模式（您只有一次生命，任何伤害都会导致死亡）	interface	missing-reflow	
+Region Locked (Players are locked to a region of their choice)	区域锁定（玩家被锁定在他们选择的区域内）	interface	missing-reflow	
+Cardcore (Items and NPCs are locked behind unlocking their respective cards as part of in-game OSRS trading cards, which are unlocked by progressing your account)	卡牌模式（物品和 NPC 需要通过解锁相应的卡牌来获得，这些卡牌是 OSRS 游戏内交易卡的一部分，通过推进账号进度来解锁）	interface	missing-reflow	
+Other (please specify in the next question)	其他（请在下一题中说明）	interface	missing-reflow	
+If you selected 'Other' for the previous question, let us know which game modes you'd have preferred.	如果您在上一题选择了“其他”，请告知我们您更倾向于哪些游戏模式。	interface	missing-reflow	
+Redesigning Bronzeman	重新设计青铜人模式	interface	missing-reflow	
+First, we'd like to know about what you think the overarching vision for Bronzeman should be.	首先，我们想了解您认为青铜人模式的总体愿景应该是什么。	interface	missing-reflow	
+Which of these is closer to your view of what Bronzeman should be?	以下哪个更接近您对青铜人模式应成为何种模式的看法？	interface	missing-reflow	
+A mode focused on being accessible and flexible for the people playing it	一个注重对玩家友好且灵活的模式	interface	missing-reflow	
+A mode focused on strict integrity, even at the cost of some accessibility or convenience	一个注重严格完整性，即使牺牲一些便利性也在所不惜的模式	interface	missing-reflow	
+No preference	无偏好	interface	missing-reflow	
+Which of these should playing a Bronzeman feel closer to?	玩青铜人模式应该更接近以下哪种体验？	interface	missing-reflow	
+Playing an Ironman	玩铁人模式	interface	missing-reflow	
+Playing a Main	玩普通模式	interface	missing-reflow	
+Now, we'd like to know about some specific design choices for how Bronzeman could work.	现在，我们想了解一些关于青铜人模式可能运作方式的具体设计选择。	interface	missing-reflow	
+How should Bronzeman item unlocks work?	青铜人模式的物品解锁应如何运作？	interface	missing-reflow	
+No preference / Don't feel strongly about either option	无偏好 / 对任一选项没有强烈感觉	interface	missing-reflow	
+Unlocking one base part should allow you to buy the remaining parts to make the final item	解锁一个基础部件后，应允许购买其余部件以制成最终物品	interface	missing-reflow	
+No preference / Don't feel strongly about these options	无偏好 / 对这些选项没有强烈感觉	interface	missing-reflow	
+How should trading on the Grand Exchange work for Bronzeman?	青铜人模式在大交易所的交易应如何运作？	interface	missing-reflow	
+Grand Exchange transactions should be restricted to limit the ability of players to funnel wealth to Bronzemen through mispriced low volume items	应限制大交易所交易，防止玩家通过定价失真的低成交量物品向青铜人输送财富	interface	missing-reflow	
+Bronzeman should be able to freely trade any item on the Grand Exchange they have unlocked	青铜人应能在大交易所自由交易任何已解锁的物品	interface	missing-reflow	
+Bronzeman can only use the Grand Exchange to buy items rather than being able to buy and sell them	青铜人只能通过大交易所购买物品，不能出售物品	interface	missing-reflow	
+How should Bonds work for Bronzeman?	OS债券在青铜人模式中应如何运作？	interface	missing-reflow	
+Bronzemen should be able to use Bonds for membership and sell Bonds on the Grand Exchange for coins	青铜人应当可以用 OS债券兑换会员资格，也可以在大交易所出售 OS债券换取金币	interface	missing-reflow	
+Bronzemen should be able to use Bonds for membership but not sell them on the Grand Exchange for coins	青铜人应当可以用 OS债券兑换会员资格，但不能在大交易所出售 OS债券换取金币	interface	missing-reflow	
+How should player-to-player trading work for Bronzeman?	青铜人模式的玩家间交易应如何运作？	interface	missing-reflow	
+Bronzemen should be able to trade freely any item they have unlocked, even if this means they can obtain wealth from other players	青铜人应能自由交易任何已解锁的物品，即使这意味着他们可以从其他玩家那里获得财富	interface	missing-reflow	
+Bronzemen shouldn't be able to trade with other players to stop imbalanced trades fuelling wealth	青铜人不应与其他玩家交易，以免不平衡交易为其输送财富	interface	missing-reflow	
+Bronzemen should be allowed to trade with other players, but restrictions should be in place to stop unbalanced trades funnelling wealth to them	青铜人应被允许与其他玩家交易，但应设置限制以防止不平衡交易向他们输送财富	interface	missing-reflow	
+How should splitting raid rewards work for Bronzeman?	青铜人模式的团队副本奖励分配应如何运作？	interface	missing-reflow	
+Bronzemen should be able to split raid rewards with others they raided with even if it opens opportunities for abuse	青铜人应能与一起突袭的其他人分配奖励，即使这可能为滥用提供机会	interface	missing-reflow	
+Bronzemen should not be able to trade raid rewards with other players to protect the integrity of the game mode	青铜人不应能与其他玩家交易团队副本奖励，以保护游戏模式的完整性	interface	missing-reflow	
+How should PvP work for Bronzeman?	青铜人模式的 PvP 应如何运作？	interface	missing-reflow	
+Bronzeman should be able to progress their account through PvP, even if this means some players might funnel items to their character via PvP	青铜人应能通过 PvP 推进账号进度，即使这可能意味着一些玩家会通过 PvP 向他们的角色输送物品	interface	missing-reflow	
+Bronzeman should not have PvP-based progression due to risk of some players funnelling items to their character via PvP	青铜人不应有基于 PvP 的进度，因为存在一些玩家通过 PvP 向角色输送物品的风险	interface	missing-reflow	
+There should be an unranked version of Bronzeman with no hiscores where players are able to acquire items through PvP	应有一个无排名的青铜人版本，没有排行榜，玩家可以通过 PvP 获取物品	interface	missing-reflow	
+Now, we'd like to gauge the importance of various design choices for how you feel about Bronzeman.	现在，我们想评估各种设计选择对您对青铜人模式看法的重要性。	interface	missing-reflow	
+How important are each of the following in determining your support for Bronzeman? (<Num0> = Not at all important; <Num1> = Extremely important)	以下各项在决定您对青铜人模式的支持程度方面有多重要？（<Num0> = 完全不重要；<Num1> = 极其重要）	interface	missing-reflow	
+Not at all important	完全不重要	interface	missing-reflow	
+Extremely important	极其重要	interface	missing-reflow	
+Which TWO of these are most important in determining your support for Bronzeman?	以下哪两项对您决定支持青铜人模式最重要？	interface	missing-reflow	
+None of these would impact my interest	这些都不会影响我的兴趣	interface	missing-reflow	
+Thinking about the different ways Bronzeman could be designed, which of these is closest to your view?	考虑到青铜人模式可能的不同设计方式，以下哪个最接近您的看法？	interface	missing-reflow	
+There is a version of Bronzeman that I would be interested in and support	有一种青铜人模式的设计我会感兴趣并支持	interface	missing-reflow	
+I would never be interested in Bronzeman, but I could support it being added to the game	我永远不会对青铜人模式感兴趣，但我可以支持将其添加到游戏中	interface	missing-reflow	
+I don't think any Bronzeman design should be added to the game	我认为任何青铜人模式的设计都不应添加到游戏中	interface	missing-reflow	
+Is there anything else you wish to tell us about your thoughts towards Bronzeman?	您还有什么想告诉我们关于您对青铜人模式的看法吗？	interface	missing-reflow	
+Name: REDACTED	姓名：REDACTED	interface	missing-reflow	
+Accept trade	接受交易	interface	missing-reflow	
+(Value: <Num0> coins)	（价值：<Num0> 金币）	interface	missing-reflow	
+Check offer!	检查报价！	interface	missing-reflow	
+Coins x <Num0>M (<Num1>)	金币 x <Num0>M（<Num1>）	interface	missing-reflow	
+Show all sets	显示所有套装	interface	missing-reflow	
+Join Nightmare Zone channel	加入噩梦地带频道	interface	missing-reflow	
+Teleport to Nightmare Zone	传送至噩梦地带	interface	missing-reflow	
+Dom Onion's Reward Shop	多米尼克.洋葱的奖励商店	interface	missing-reflow	
+Resources	资源	interface	missing-reflow	
+Upgrades	升级	interface	missing-reflow	
+Benefits	增益	interface	missing-reflow	
+Reward points: <Num0>	奖励点数：<Num0>	interface	missing-reflow	
+These items will give you a benefit in future Nightmare Zone dreams, and cannot be used elsewhere.	这些物品将在未来的噩梦地带梦境中为您提供帮助，且不能在其他地方使用。	interface	missing-reflow	
+Dominic's potions are sold by the dose. When you purchase a dose, it is automatically stored in Dominic's barrels until you collect it.	多米尼克的药水按剂量出售。购买一剂后，它会自动储存在多米尼克的桶中，直到您领取。	interface	missing-reflow	
+The figures in white show the number of doses you've got stored already.	白色数字显示您已储存的剂量数量。	interface	missing-reflow	
+Click on an item to imbue it.	点击物品进行强化。	interface	missing-reflow	
+There are no items in your inventory that can be imbued.	你的物品栏中没有可以强化的物品。	interface	missing-reflow	
+Some rewards from the PvP Arena can be imbued only with Scrolls of Imbuing.	PvP 竞技场的部分奖励只能使用强化卷轴进行强化。	interface	missing-reflow	
+Grapple across the River Lum to Al Kharid	用抓钩越过卢姆河到达阿尔卡里德城	interface	missing-reflow	
+You need at least level <Num0> Fishing to lure these fish.	您需要至少 <Num0> 级钓鱼才能引诱这些鱼。	interface	missing-reflow	
+Configure XP Drops	配置经验掉落	interface	missing-reflow	
+Most recent	最近	interface	missing-reflow	
+Progress bar	进度条	interface	missing-reflow	
+No tracker or goal set.	未设置追踪器或目标。	interface	missing-reflow	
+Total XP	总经验	interface	missing-reflow	
+Woodcutting - Level-up Unlocks	伐木 - 升级解锁	interface	missing-reflow	
+Minimise Minimap	最小化小地图	interface	missing-reflow	
+If I ever lose my Kandarin headgear I can speak to The 'Wedge' outside Camelot castle.	如果我丢失了坎达林头冠，我可以与卡美洛城堡外的“楔子”交谈。	journal	missing-reflow	
+Join Pest Control channel	加入虫害治理频道	interface	missing-reflow	
+Teleport to Pest Control	传送至虫害治理	interface	missing-reflow	
+Join Guardians of the Rift channel	加入裂隙守护者频道	interface	missing-reflow	
+Teleport to Guardians of the Rift	传送至裂隙守护者	interface	missing-reflow	
+You have enabled colourful full screen effects within this minigame.	您已在此小游戏中启用了彩色全屏效果。	interface	missing-reflow	
+Guardian power: <Num0>%	守护者能量：<Num0>%	interface	missing-reflow	
+Guardian's Power: <Num0>%	守护者能量：<Num0>%	interface	missing-reflow	
+Your inventory is too full to hold any more essence.	你的物品栏太满，无法再装下更多精华。	interface	missing-reflow	
+Energy: <Num0>	能量：<Num0>	interface	missing-reflow	
+Catalytic	催化	interface	missing-reflow	
+Your inventory is too full to hold any more guardian essence.	你的物品栏太满，无法再装下更多守护者精华。	interface	missing-reflow	
+The Guardian is dormant. Its energy might return soon.	守护者处于休眠状态。它的能量可能很快就会恢复。	interface	missing-reflow	
+There doesn't seem to be anything else in the rift for you.	裂隙中似乎没有其他东西了。	interface	missing-reflow	
+Points	积分	interface	missing-reflow	
+Welcome to the Temple Supplies shop. You can trade your abyssal pearls in for items here.	欢迎来到神殿补给商店。你可以在这里用深渊珍珠兑换物品。	interface	missing-reflow	
+Temple Supplies	神殿补给	interface	missing-reflow	
+Runecraft - Level-up Unlocks	符石制作 - 升级解锁	interface	missing-reflow	
+An axe.	一把斧头。	interface	missing-reflow	
+A spade.	一把铲子。	interface	missing-reflow	
+A pair of shears.	一把剪刀。	interface	missing-reflow	
+A shield.	一面盾。	interface	missing-reflow	
+A sword.	一把剑。	interface	missing-reflow	
+A ring.	一枚戒指。	interface	missing-reflow	
+Teleport Mode	传送模式	interface	missing-reflow	
+Scry Mode	占卜模式	interface	missing-reflow	
+<Num0> :  Varrock	<Num0> :  维洛克城	interface	missing-reflow	
+<Num0> :  Lumbridge	<Num0> :  仑桥镇	interface	missing-reflow	
+<Num0> :  Falador	<Num0> :  法拉多城	interface	missing-reflow	
+<Num0> :  Camelot	<Num0>：卡美洛城堡	interface	missing-reflow	
+<Num0> :  Grand Exchange	<Num0> :  大交易所	interface	missing-reflow	
+<Num0> :  Seers' Village	<Num0> :  先知村	interface	missing-reflow	
+Show Map	显示地图	interface	missing-reflow	
+You do not have any pure essences to bind.	你没有可用于绑定的纯净精华。	interface	missing-reflow	
+House Viewer	房屋查看器	interface	missing-reflow	
+Select a room on the map.	在地图上选择一个房间。	interface	missing-reflow	
+Upstairs	楼上	interface	missing-reflow	
+Add room	添加房间	interface	missing-reflow	
+Quest hall:	任务大厅：	interface	missing-reflow	
+@ttip_list@Amulet of Glory	@ttip_list@荣耀护符	interface	missing-reflow	
+Quest hall	任务大厅	interface	missing-reflow	
+Use the options to edit the room.	使用选项来编辑房间。	interface	missing-reflow	
+Use the map to select a position for the room.	使用地图为房间选择一个位置。	interface	missing-reflow	
+Choose an orientation for the room, then select 'Done'.	为房间选择一个方向，然后选择“完成”。	interface	missing-reflow	
+Room Creation Menu	房间创建菜单	interface	missing-reflow	
+Parlour: Lvl <Num0>	客厅：等级 <Num0>	interface	missing-reflow	
+Garden: Lvl <Num0>	花园：等级 <Num0>	interface	missing-reflow	
+Kitchen: Lvl <Num0>	厨房：等级 <Num0>	interface	missing-reflow	
+Dining room: Lvl <Num0>	餐厅：等级 <Num0>	interface	missing-reflow	
+Bedroom: Lvl <Num0>	卧室：等级 <Num0>	interface	missing-reflow	
+Games room: Lvl <Num0>	游戏室：等级 <Num0>	interface	missing-reflow	
+Hall - Skill trophies: Lvl <Num0>	大厅 - 技能奖杯：等级 <Num0>	interface	missing-reflow	
+Hall - Quest trophies: Lvl <Num0>	大厅 - 任务奖杯：等级 <Num0>	interface	missing-reflow	
+Chapel: Lvl <Num0>	礼拜堂：等级 <Num0>	interface	missing-reflow	
+Workshop: Lvl <Num0>	工作室：等级 <Num0>	interface	missing-reflow	
+Study: Lvl <Num0>	书房：等级 <Num0>	interface	missing-reflow	
+Portal chamber: Lvl <Num0>	传送室：等级 <Num0>	interface	missing-reflow	
+Portal Nexus: Lvl <Num0>	传送枢纽：等级 <Num0>	interface	missing-reflow	
+Throne room: Lvl <Num0>	王座室：等级 <Num0>	interface	missing-reflow	
+Oubliette: Lvl <Num0>	密室：等级 <Num0>	interface	missing-reflow	
+Dungeon - Corridor: Lvl <Num0>	地牢 - 走廊：等级 <Num0>	interface	missing-reflow	
+Dungeon - Junction: Lvl <Num0>	地牢 - 交叉口：等级 <Num0>	interface	missing-reflow	
+Dungeon - Stairs: Lvl <Num0>	地牢 - 楼梯：等级 <Num0>	interface	missing-reflow	
+Treasure room: Lvl <Num0>	宝藏室：等级 <Num0>	interface	missing-reflow	
+Formal garden: Lvl <Num0>	正规花园：等级 <Num0>	interface	missing-reflow	
+Combat room: Lvl <Num0>	战斗室：等级 <Num0>	interface	missing-reflow	
+Costume room: Lvl <Num0>	服装室：等级 <Num0>	interface	missing-reflow	
+Menagerie (indoors): Lvl <Num0>	动物园 (室内)：等级 <Num0>	interface	missing-reflow	
+Menagerie (outdoors): Lvl <Num0>	动物园 (室外)：等级 <Num0>	interface	missing-reflow	
+Superior garden: Lvl <Num0>	高级花园：等级 <Num0>	interface	missing-reflow	
+Achievement gallery: Lvl <Num0>	成就画廊：等级 <Num0>	interface	missing-reflow	
+League Hall: Lvl <Num0>	联赛大厅：等级 <Num0>	interface	missing-reflow	
+Hall - Skill trophies	大厅 - 技能奖杯	interface	missing-reflow	
+Hall - Quest trophies	大厅 - 任务奖杯	interface	missing-reflow	
+Menagerie (outdoors)	动物园 (室外)	interface	missing-reflow	
+Menagerie (indoors)	动物园 (室内)	interface	missing-reflow	
+Dungeon - Corridor	地牢 - 走廊	interface	missing-reflow	
+Dungeon - Stairs	地牢 - 楼梯	interface	missing-reflow	
+Limestone brick: <Num0>	石灰石砖：<Num0>	interface	missing-reflow	
+Bucket of water: <Num0>	一桶水：<Num0>	interface	missing-reflow	
+Soul rune: <Num0>	灵魂符石：<Num0>	interface	missing-reflow	
+Body rune: <Num0>	躯体符石：<Num0>	interface	missing-reflow	
+Stamina potion(<Num0>): <Num1>	耐力药水 (<Num0>)：<Num1>	interface	missing-reflow	
+Prayer potion(<Num0>): <Num1>	祈祷药水 (<Num0>)：<Num1>	interface	missing-reflow	
+Super restore(<Num0>): <Num1>	超级恢复药水 (<Num0>)：<Num1>	interface	missing-reflow	
+Anti-venom(<Num0>): <Num1>	抗毒药水 (<Num0>)：<Num1>	interface	missing-reflow	
+Blood rune: <Num0>	血符石：<Num0>	interface	missing-reflow	
+You don't have the right materials:	你没有合适的材料：	interface	missing-reflow	
+<Num0> x Stamina potion(<Num1>)	<Num0> x 耐力药水 (<Num1>)	interface	missing-reflow	
+Quest hall: @ttip_list@(empty)	任务大厅：@ttip_list@(空)	interface	missing-reflow	
+Portal nexus:	传送枢纽：	interface	missing-reflow	
+@ttip_list@Marble portal nexus	@ttip_list@大理石传送枢纽	interface	missing-reflow	
+Dining room:	餐厅：	interface	missing-reflow	
+@ttip_list@Mahogany table, Bell-pull	@ttip_list@红木桌，拉铃	interface	missing-reflow	
+Garden:	花园：	interface	missing-reflow	
+@ttip_list@Exit portal, Tip jar	@ttip_list@出口传送门，小费罐	interface	missing-reflow	
+Workshop:	工作室：	interface	missing-reflow	
+@ttip_list@Armour stand	@ttip_list@装备架	interface	missing-reflow	
+Superior garden:	高级花园：	interface	missing-reflow	
+@ttip_list@Rejuvenation pool	@ttip_list@回春池	interface	missing-reflow	
+Clockwise	顺时针	interface	missing-reflow	
+Counter-clockwise	逆时针	interface	missing-reflow	
+Steel bar: <Num0>	钢锭：<Num0>	interface	missing-reflow	
+Games necklace(<Num0>): <Num1>	游戏项链 (<Num0>)：<Num1>	interface	missing-reflow	
+Ring of dueling(<Num0>): <Num1>	决斗戒指 (<Num0>)：<Num1>	interface	missing-reflow	
+Combat bracelet(<Num0>): <Num1>	战斗手镯 (<Num0>)：<Num1>	interface	missing-reflow	
+Skills necklace(<Num0>): <Num1>	技能项链 (<Num0>)：<Num1>	interface	missing-reflow	
+Amulet of glory(<Num0>): <Num1>	荣耀护符 (<Num0>)：<Num1>	interface	missing-reflow	
+Ring of wealth (<Num0>): <Num1>	财富戒指 (<Num0>)：<Num1>	interface	missing-reflow	
+Lizardman fang: <Num0>	蜥蜴人毒牙：<Num0>	interface	missing-reflow	
+Xeric's talisman (inert): <Num0>	泽里克护符 (未充能)：<Num0>	interface	missing-reflow	
+Curator's medallion: <Num0>	馆长奖章：<Num0>	interface	missing-reflow	
+Available <Num0>/<Num1>	可用 <Num0>/<Num1>	interface	missing-reflow	
+Left-click	左键点击	interface	missing-reflow	
+Slots <Num0>/<Num1>	槽位 <Num0>/<Num1>	interface	missing-reflow	
+Completed Client of Kourend.	已完成库兰德王国的客户。	interface	missing-reflow	
+Can not afford cost.	无法支付费用。	interface	missing-reflow	
+Learned Ardougne Teleport spell.	已学习阿多尼城传送术。	interface	missing-reflow	
+Completed Twilight's Promise.	已完成暮光之约。	interface	missing-reflow	
+Learned Watchtower Teleport spell.	已学会瞭望塔传送术。	interface	missing-reflow	
+Save & Close	保存并关闭	interface	missing-reflow	
+Buy limit: <Num0> (<Num1>:<Num2>) / Actively traded price: <Num3>	购买上限：<Num0>（<Num1>：<Num2>）/ 活跃交易价格：<Num3>	interface	missing-reflow	
+Ancient signet: <Num0>	古代印章：<Num0>	interface	missing-reflow	
+Pharaoh's sceptre (uncharged): <Num0>	法老权杖 (未充能)：<Num0>	interface	missing-reflow	
+Lunar signet: <Num0>	月之印章：<Num0>	interface	missing-reflow	
+Astral rune: <Num0>	星界符石：<Num0>	interface	missing-reflow	
+Arceuus signet: <Num0>	阿西乌斯印章：<Num0>	interface	missing-reflow	
+<Num0>k Blood & Soul runes	<Num0>千血与灵魂符石	interface	missing-reflow	
+Remove placeholders	移除占位符	interface	missing-reflow	
+Spirit sapling: <Num0>	灵魂树树苗：<Num0>	interface	missing-reflow	
+Mushroom: <Num0>	蘑菇：<Num0>	interface	missing-reflow	
+Fairy enchantment: <Num0>	仙子魔法卷轴：<Num0>	interface	missing-reflow	
+Ancient crystal: <Num0>	古代水晶：<Num0>	interface	missing-reflow	
+Collapse tab	折叠标签页	interface	missing-reflow	
+<Num0>-Aug-<Num1>	<Num0>-八月-<Num1>	interface	missing-reflow	
+Rank <Num0>	排名<Num0>	interface	missing-reflow	
+Diseased	患病	interface	missing-reflow	
+Air	空气	interface	missing-reflow	
+Goon	打手	interface	missing-reflow	
+TzTok	兹托克	interface	missing-reflow	
+TzKal	兹卡尔	interface	missing-reflow	
+Battlemage	战斗法师	interface	missing-reflow	
+Coordinator	协调员	interface	missing-reflow	
+Nurse	护士	interface	missing-reflow	
+<Num0>-Dec-<Num1>	<Num0>-十二月-<Num1>	interface	missing-reflow	
+<Num0>-Nov-<Num1>	<Num0>-十一月-<Num1>	interface	missing-reflow	
+Level-up increments of <Num0>	升级增量<Num0>	interface	missing-reflow	
+The Summer Sweep Up continues! The Chambers of Xeric loot updates are here, alongside the Agility and miscellaneous changes. Plus, Wyrmscraig tweaks, drop rates & more!	夏日清扫继续！泽里克圣所战利品更新已上线，同时还有敏捷和杂项改动。此外，还有沃姆斯克拉格调整、掉落率等更多内容！	interface	missing-reflow	
+Bag value: -	袋子价值：-	interface	missing-reflow	
+There are no quests available that match your current filters.	没有符合当前筛选条件的任务。	interface	missing-reflow	
+Waxwood plank: <Num0>	蜡木木板：<Num0>	interface	missing-reflow	
+Construction supplies	建筑用品	interface	missing-reflow	
+How many do you wish to make?	你想制作多少个？	interface	missing-reflow	
+(<Num0>) Mahogany - <Num1>gp	（<Num0>）桃花心木 - <Num1>金币	interface	missing-reflow	
+(<Num0>) Teak - <Num1>gp	（<Num0>）柚木 - <Num1>金币	interface	missing-reflow	
+(<Num0>) Oak - <Num1>gp	（<Num0>）橡木 - <Num1>金币	interface	missing-reflow	
+(<Num0>) Wood - <Num1>gp	（<Num0>）木材 - <Num1>金币	interface	missing-reflow	
+(<Num0>) Camphor - <Num1>gp	(<Num0>) 樟木 - <Num1>gp	interface	missing-reflow	
+(<Num0>) Ironwood - <Num1>gp	（<Num0>）铁木 - <Num1>金币	interface	missing-reflow	
+(<Num0>) Rosewood - <Num1>gp	（<Num0>）花梨木 - <Num1>金币	interface	missing-reflow	
+What metal would you like to add?	你想添加哪种金属？	interface	missing-reflow	
+(<Num0>) Bronze bar	(<Num0>) 青铜锭	interface	missing-reflow	
+(<Num0>) Steel bar	(<Num0>) 钢锭	interface	missing-reflow	
+You add <Num0> Iron bars to the crucible.	你将 <Num0> 个铁锭加入坩埚。	interface	missing-reflow	
+You add <Num0> Bronze bars to the crucible.	你将 <Num0> 个青铜锭加入坩埚。	interface	missing-reflow	
+(<Num0>) Mithril bar	(<Num0>) 秘银锭	interface	missing-reflow	
+(<Num0>) Adamantite bar	(<Num0>) 精金锭	interface	missing-reflow	
+(<Num0>) Runite bar	(<Num0>) 符文锭	interface	missing-reflow	
+You have no Bronze bars to add to the crucible.	你没有青铜锭可加入坩埚。	interface	missing-reflow	
+You have no Iron bars to add to the crucible.	你没有铁锭可加入坩埚。	interface	missing-reflow	
+You've taken all you can from the crate.	你已从箱子里拿走了所有能拿的东西。	interface	missing-reflow	
+You have no Runite bars to add to the crucible.	你没有符文锭可加入坩埚。	interface	missing-reflow	
+You have no Adamantite bars to add to the crucible.	你没有精金锭可加入坩埚。	interface	missing-reflow	
+You have no Mithril bars to add to the crucible.	你没有秘银锭可加入坩埚。	interface	missing-reflow	
+You have no Steel bars to add to the crucible.	你没有钢锭可加入坩埚。	interface	missing-reflow	
+You need <Num0> Smithing to add this item to the crucible.	你需要 <Num0> 锻造技能才能将此物品加入坩埚。	interface	missing-reflow	
+You need a giant sword preform equipped to use this tool.	你需要装备一把巨型剑的未完成部件才能使用此工具。	interface	missing-reflow	
+The crucible is now full of molten metal, it is ready to be poured	坩埚现在装满了熔化的金属，可以倒出了。	interface	missing-reflow	
+Giants' Foundry Mould Setup	巨人铸造厂模具设置	interface	missing-reflow	
+Forte	剑身	interface	missing-reflow	
+Blades	刀片	interface	missing-reflow	
+Tips	剑尖	interface	missing-reflow	
+Misthalin: Edgeville	米斯林：边陲镇	interface	missing-reflow	
+Great Kourend: Hosidius house portal	大库兰德：霍西迪乌斯城房屋传送门	interface	missing-reflow	
+Islands: Miscellania	岛屿：米斯凯尼亚	interface	missing-reflow	
+Islands: Penguins	岛屿：企鹅	interface	missing-reflow	
+Feldip Hills: Jungle Hunter area	费迪普丘陵：丛林狩猎区	interface	missing-reflow	
+Feldip Hills: South of Castle Wars	费迪普丘陵：城堡战争以南	interface	missing-reflow	
+Karamja: Tai Bwo Wannai Village	卡拉姆詹岛：泰博瓦纳村	interface	missing-reflow	
+Morytania: Canifis	莫利塔尼亚：坎尼非斯村	interface	missing-reflow	
+Misthalin: Wizards' Tower	米斯林：法师塔	interface	missing-reflow	
+Great Kourend: Chasm of Fire	大库兰德：火焰深渊地牢	interface	missing-reflow	
+Kharidian Desert: North of Nardah	卡里迪安沙漠：那尔达城以北	interface	missing-reflow	
+Invalid location	无效位置	interface	missing-reflow	
+(Island) Lighthouse	(岛屿) 灯塔	interface	missing-reflow	
+Necropolis	大墓地	interface	missing-reflow	
+Turn Dial	转动表盘	interface	missing-reflow	
+Crandor	克兰多尔	interface	missing-reflow	
+You sail to Port Sarim.	你航行到沙林港。	interface	missing-reflow	
+When sailing, you can stop your boat by right-clicking on the sails.	航行时，你可以通过右键点击船帆来停船。	interface	missing-reflow	
+After stopping your boat, you can start it again by clicking on the sails.	停船后，你可以通过点击船帆再次启动。	interface	missing-reflow	
+Crew details are not available while customising your boat in the shipyard.	在船坞定制船只时无法查看船员详情。	interface	missing-reflow	
+Boat Customisation	船只定制	interface	missing-reflow	
+Cargo hold	货舱	interface	missing-reflow	
+A wooden cargo hold for an especially small vessel.	一种特别小的船只用的木制货舱。	interface	missing-reflow	
+Storage capacity: <Num0>	存储容量：<Num0>	interface	missing-reflow	
+A salvaging hook made from bronze and wood.	由青铜和木头制成的打捞钩。	interface	missing-reflow	
+An oak cargo hold for an especially small vessel.	一种特别小的船只用的橡木货舱。	interface	missing-reflow	
+A salvaging hook made from iron and oak.	由铁和橡木制成的打捞钩。	interface	missing-reflow	
+A salvaging hook made from steel and teak.	由钢和柚木制成的打捞钩。	interface	missing-reflow	
+Ranged level requirement: <Num0>	远程等级要求：<Num0>	interface	missing-reflow	
+Ranged accuracy: <Num0>	远程准确度：<Num0>	interface	missing-reflow	
+Ranged strength: <Num0>	远程力量：<Num0>	interface	missing-reflow	
+A teak cargo hold for an especially small vessel.	一种特别小的船只用的柚木货舱。	interface	missing-reflow	
+Max ammunition tier: Iron cannonballs	最大弹药等级：铁炮弹	interface	missing-reflow	
+A salvaging hook made from mithril and mahogany.	由秘银和红木制成的打捞钩。	interface	missing-reflow	
+A mahogany cargo hold for an especially small vessel.	一种特别小的船只用的红木货舱。	interface	missing-reflow	
+Max ammunition tier: Steel cannonballs	最大弹药等级：钢炮弹	interface	missing-reflow	
+Max motes stored: <Num0>	最大存储微粒数：<Num0>	interface	missing-reflow	
+A salvaging hook made from adamant and camphor.	由精金和樟木制成的打捞钩。	interface	missing-reflow	
+A camphor cargo hold for an especially small vessel.	一种特别小的船只用的樟木货舱。	interface	missing-reflow	
+A salvaging hook made from rune and ironwood.	由符文和铁木制成的打捞钩。	interface	missing-reflow	
+An ironwood cargo hold for an especially small vessel.	一种特别小的船只用的铁木货舱。	interface	missing-reflow	
+Cannons	大炮	interface	missing-reflow	
+Misc	杂项	interface	missing-reflow	
+You are not yet an experienced enough sailor to manage a crew.	你还不够经验丰富，无法管理船员。	interface	missing-reflow	
+Access to the Sailing skill	航行技能的使用权限	interface	missing-reflow	
+Access to the Pandemonium	潘德莫尼姆岛的访问权限	interface	missing-reflow	
+A raft	一个木筏	interface	missing-reflow	
+<Num0> Sawmill coupons	<Num0>张锯木厂优惠券	interface	missing-reflow	
+Pandemonium swamp paste delivery	潘德莫尼姆岛沼泽膏运送	interface	missing-reflow	
+Cargo: Crate of swamp paste	货物：装有沼泽膏的箱	interface	missing-reflow	
+Location: Port Khazard	地点：卡扎德港	interface	missing-reflow	
+I need some swamp paste collecting from Port Khazard to fix some ship damage caused by nuisance pirates. I hope they're happy with the inconvenience they've caused.	我需要从卡扎德港收集一些沼泽膏来修复被讨厌的海盗造成的船只损坏。我希望他们对自己造成的麻烦感到满意。	interface	missing-reflow	
+Pandemonium steel delivery	潘德莫尼姆岛钢锭运送	interface	missing-reflow	
+Cargo: Crate of steel bars	货物：装有钢锭的箱	interface	missing-reflow	
+Thanks to some top parleying, I've got my hands on some steel bars. They're coming through Port Sarim so I need someone to pick them up there and bring them to the Pandemonium.	多亏了一些高明的谈判，我弄到了一些钢锭。它们会经过沙林港，所以我需要有人在那里取货并带到潘德莫尼姆岛。	interface	missing-reflow	
+Port Sarim jewellery delivery	沙林港首饰运送	interface	missing-reflow	
+Cargo: Crate of jewellery	货物：装有宝珠的箱	interface	missing-reflow	
+Destination: Port Sarim	目的地：沙林港	interface	missing-reflow	
+I've got some jewellery acquired through entirely legitimate means. I need someone to deliver it to Port Sarim for me.	我有一些通过完全合法手段获得的首饰。我需要有人帮我送到沙林港。	interface	missing-reflow	
+Items can be unlocked from any source that drops them e.g. unlocking Saradomin brews from the Grubby Chest without the Herblore level to make them	物品可从任何会掉落它们的来源解锁，例如：即使草药学等级不足以制作萨拉多明灵药，也可通过肮脏宝箱掉落将其解锁。	interface	missing-reflow	
+Items are only unlocked by meeting the same requirements needed to create them e.g. unlocking Saradomin brews requires the Herblore level to make them	只有满足制作物品所需的相同要求才能解锁它，例如：解锁萨拉多明灵药需要达到制作它所需的草药学等级。	interface	missing-reflow	
+How should multi-part items work for Bronzeman? E.g. for items such as Oathplate that are earned in multiple parts	青铜人模式应如何处理多部件物品？例如誓约板甲这类由多个部件逐步获得的物品。	interface	missing-reflow	
+Requirements: View journal for details.	要求：查看日志了解详情。	interface	missing-reflow	
+You have sold a total of <Num0> so far	你目前已售出总共<Num0>件	interface	missing-reflow	
+Trigger a clan notification message for every <Num0>th level-up gained by a clan member, starting from this value.	从此数值开始，氏族成员每提升 <Num0> 级就触发一条氏族通知消息。	interface	missing-reflow	
+You feel a strange vibration in the air.	你感觉到空气中有一股奇怪的震动。	interface	missing-reflow	
+You'll need an Agility level of <Num0> to try this.	你需要<Num0>级敏捷才能尝试这个。	interface	missing-reflow	
+I would have voted Yes	我会投赞成票	interface	missing-reflow	
+No preference / Don't feel strongly about these  option	没有偏好 / 对这些选项没有强烈感觉	interface	missing-reflow	
+Armour created with the Crafting skill provides boosts to ranged combat.	用制作技能制作的盔甲提供远程战斗加成。	journal	missing-reflow	
