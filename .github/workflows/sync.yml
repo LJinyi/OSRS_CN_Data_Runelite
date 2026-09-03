@@ -1,30 +1,25 @@
-name: Sync Upstream to GitHub and Gitee
+name: Sync Fork
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # 定时任务：每天 UTC 0:00（北京时间早 8 点）自动执行
+    - cron: '0 0 * * *'
+  # 支持手动在 GitHub Actions 界面触发
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      # 1. 从原作者同步代码到你的 GitHub 仓库
-      - name: Sync upstream changes to GitHub
-        run: |
-          gh repo sync LJinyi/OSRS_CN_Data_Runelite -b main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout target repo
+        uses: actions/checkout@v4
 
-      # 2. 将你的 GitHub 最新代码同步给 Gitee
-      - name: Sync Github repo to Gitee
-        uses: Yikun/hub-mirror-action@master
+      - name: Sync upstream changes
+        uses: a2ren/fork-sync@v1
         with:
-          src: 'github/LJinyi'
-          dst: 'gitee/LJinyi'
-          # 修正关键点：将 gitee_token 改为 dst_token
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: '${{ github.event.repository.name }}'
-          force_update: true
+          # 原仓库地址（改为你需要同步的 upstream 仓库，例如 owner/repo）
+          upstream: upstream-owner/upstream-repo
+          # 需要同步的分支（如 main 或 master）
+          upstream-branch: main
+          target-branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
