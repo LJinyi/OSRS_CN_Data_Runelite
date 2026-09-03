@@ -1,29 +1,40 @@
-name: Sync upstream to GitHub and Gitee
+name: Sync Upstream to GitHub and Gitee
 
 on:
   schedule:
+    # 每 6 小时自动同步一次 (UTC 时间 00:00, 06:00, 12:00, 18:00)
     - cron: '0 */6 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 支持手动点击按钮触发
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      # 第一步：改用维护良好的 repo-sync 组件，将上游原作者代码同步到你的 GitHub
-      - name: Sync upstream changes to GitHub
-        uses: repo-sync/github-sync@v2
+      # 1. 检出你自己的 GitHub 仓库代码
+      - name: Checkout destination repo
+        uses: actions/checkout@v4
         with:
-          source_repo: "https://github.com/LJinyi/OSRS_CN_Data_Runelite.git"
-          source_branch: "main"
-          destination_branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # 获取完整历史记录，防止 push 时报错
 
-      # 第二步：保持不变，将 GitHub 代码同步到 Gitee
+      # 2. 使用原生 Git 命令拉取原作者 Aoldbald 的最新代码并合并提交到你的 GitHub
+      - name: Sync from upstream (Aoldbald)
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote add upstream https://github.com/Aoldbald/OSRS_CN_Data_Runelite.git
+          git fetch upstream
+          # 检查原作者主分支名（兼容 master 或 main）
+          UPSTREAM_BRANCH=$(git rev-parse --verify upstream/master >/dev/null 2>&1 && echo "master" || echo "main")
+          git merge upstream/$UPSTREAM_BRANCH --allow-unrelated-histories -m "Chore: auto sync from upstream"
+          git push origin HEAD
+
+      # 3. 将你的 GitHub 最新代码同步推送给你的 Gitee
       - name: Sync Github repo to Gitee
         uses: Yikun/hub-mirror-action@master
         with:
-          src: "github/${{ github.repository_owner }}"
-          dst: "gitee/${{ github.repository_owner }}"
+          src: 'github/LJinyi'
+          dst: 'gitee/LJinyi'
           gitee_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: '${{ github.event.repository.name }}'
+          static_list: 'OSRS_CN_Data_Runelite'
           force_update: true
