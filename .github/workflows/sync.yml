@@ -2,39 +2,28 @@ name: Sync Upstream to GitHub and Gitee
 
 on:
   schedule:
-    # 每 6 小时自动同步一次 (UTC 时间 00:00, 06:00, 12:00, 18:00)
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # 支持手动点击按钮触发
+    - cron: '0 */6 * * *' # 每 6 小时自动运行一次
+  workflow_dispatch: # 支持手动点击 Run workflow 触发
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 明确声明代码写入权限
     steps:
-      # 1. 检出你自己的 GitHub 仓库代码
-      - name: Checkout destination repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0 # 获取完整历史记录，防止 push 时报错
-
-      # 2. 使用原生 Git 命令拉取原作者 Aoldbald 的最新代码并合并提交到你的 GitHub
-      - name: Sync from upstream (Aoldbald)
+      # 1. 使用 GitHub 官方原生能力同步 Aoldbald 的最新代码到你的 GitHub
+      - name: Sync upstream changes to GitHub
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote add upstream https://github.com/Aoldbald/OSRS_CN_Data_Runelite.git
-          git fetch upstream
-          # 检查原作者主分支名（兼容 master 或 main）
-          UPSTREAM_BRANCH=$(git rev-parse --verify upstream/master >/dev/null 2>&1 && echo "master" || echo "main")
-          git merge upstream/$UPSTREAM_BRANCH --allow-unrelated-histories -m "Chore: auto sync from upstream"
-          git push origin HEAD
+          gh repo sync LJinyi/OSRS_CN_Data_Runelite -b main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. 将你的 GitHub 最新代码同步推送给你的 Gitee
+      # 2. 将你的 GitHub 代码强推同步给 Gitee
       - name: Sync Github repo to Gitee
         uses: Yikun/hub-mirror-action@master
         with:
           src: 'github/LJinyi'
           dst: 'gitee/LJinyi'
           gitee_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: 'OSRS_CN_Data_Runelite'
+          static_list: '${{ github.event.repository.name }}'
           force_update: true
